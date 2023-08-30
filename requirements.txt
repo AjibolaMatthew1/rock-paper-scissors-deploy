@@ -67,8 +67,8 @@ murmurhash==1.0.7
 nest-asyncio==1.5.5
 numpy==1.23.1
 oauthlib==3.2.0
-opencv-contrib-python==4.6.0.66
-opencv-python==4.5.5.64
+opencv-contrib-python-headless
+opencv-python-headless
 opt-einsum==3.3.0
 packaging==21.3
 pandas==1.4.2
